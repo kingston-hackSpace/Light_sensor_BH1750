@@ -5,3 +5,9 @@ Adafruit ambient *light sensor* BH1750. It provides light measurements in lux (0
 Reference image [here]
 
 Read more [here](https://learn.adafruit.com/adafruit-bh1750-ambient-light-sensor/overview)
+
+---
+## Tutorial
+
+See wiring, library installation and example tutorial [here](https://learn.adafruit.com/adafruit-bh1750-ambient-light-sensor/arduino)
+
